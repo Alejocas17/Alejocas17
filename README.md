@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alejocas17
-- 👀 I’m interested in Machine and deeplearning models, programming with python and matlab, computer vision algorithms.
+- 👀 I’m interested in Machine and deep learning models, programming with python and matlab, computer vision algorithms.
 - 🌱 I’m currently learning about data science and machine learning engineering
 - 💞️ I’m looking to collaborate on personal and partners projects
 - 📫 How to reach me: alejocas17@hotmail.com
