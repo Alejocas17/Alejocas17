@@ -89,6 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alejocas17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alejocas17/alejocas17/output/snake.svg" alt="Snake animation" />
 
 ###
